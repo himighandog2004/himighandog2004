@@ -1,13 +1,7 @@
-# Hello, world!
-```
-class Main{
-  public static void main(String[] args){
-    System.out.print("Hello, world!");
-  }
-}
-```
-<details closed>
-<summary>i do not know what i'm doing</summary>
-<br>
-<strong>**yet.**</strong>
-</details>
+<details open>
+  <summary>Things I like:</summary>
+    <ul>
+      <li>Ice Cream</li>
+      <li>Doughnuts</li>
+      <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">This</a></li>
+    </ul>
